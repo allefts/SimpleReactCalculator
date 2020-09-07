@@ -1,3 +1,9 @@
+TODO:
+1.Bug when user clicks wrong operation and goes back to fix it. Result == NaN
+2.Fix the display when user is adding numbers, not in sync with clicks
+3.Make it look better
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
